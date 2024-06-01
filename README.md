@@ -29,7 +29,7 @@ https://app.powerbi.com/view?r=eyJrIjoiMTRkNjFiMTEtNTA5Yi00MjhlLWJmYjItNGFhY2Y1M
 
 ![image](https://github.com/datafitness/T20-WORLD-CUP-2022-Analysis/assets/163381138/90306080-8129-4461-9c8a-7215fc63a2cd)
 
+![image](https://github.com/datafitness/T20-WORLD-CUP-2022-Analysis/assets/163381138/e42f31bb-ffa7-4276-8fe6-bef19ccc9bb4)
 
-![Uploading image.png…]()
 
 
