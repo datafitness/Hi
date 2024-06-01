@@ -23,3 +23,13 @@ With a mission to help various broadcasting Channel and Fantasy apps to understa
 
 Power BI Live Dashboard:
 https://app.powerbi.com/view?r=eyJrIjoiMTRkNjFiMTEtNTA5Yi00MjhlLWJmYjItNGFhY2Y1MTY0MmZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectione8f3b87d936cb4eb8630
+
+
+
+
+![image](https://github.com/datafitness/T20-WORLD-CUP-2022-Analysis/assets/163381138/90306080-8129-4461-9c8a-7215fc63a2cd)
+
+
+![Uploading image.png…]()
+
+
